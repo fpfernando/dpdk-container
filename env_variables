@@ -1,0 +1,7 @@
+export HOMEDIR="/home/dpdk-user/dpdk-container"
+export RTE_SDK="/home/dpdk-user/dpdk-container/dpdk"
+export RTE_TARGET="x86_64-native-linuxapp-gcc"
+export DPDK_BUILD=$RTE_TARGET
+export DPDK_DIR=$RTE_SDK
+export CONTAINER_DIR="/home/dpdk-user/dpdk-container"
+
